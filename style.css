@@ -88,3 +88,29 @@
     width: 350px;
     height: auto;
 }
+.plan h2{
+    text-align: center;
+}
+.plans{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.plan-1{
+    text-align: center;
+}
+.plan{
+    margin-top: 50px;
+    height: 400px;
+}
+.plan-1 h2{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    color: #1e1e1e;
+}
+.plan-1 p{
+    color: #737272;
+}
